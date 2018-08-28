@@ -1,0 +1,1 @@
+Deprecated. Use [PSR-4](/PSRs/PSR-4)

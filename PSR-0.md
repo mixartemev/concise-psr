@@ -1,1 +1,1 @@
-Deprecated. Use [PSR-4](/PSRs/PSR-4)
+Deprecated. Use [PSR-4](PSR-4.md)

@@ -1,4 +1,4 @@
-##PSR Standards
+### PSR Standards
 
 [PSR-0](/PSRs/PSR-0.md)
 
